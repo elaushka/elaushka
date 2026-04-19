@@ -1,6 +1,6 @@
 <p align="center">
   ⊹ ࣪ ˖
-<img src="https://komarev.com/ghpvc/?username=elaushka&label=MEOW&color=000000&style=for-the-badge&cache=1"/>
+<img src="https://github-readme-views.vercel.app/api?username=elaushka&label=MEOW&color=000000&style=for-the-badge">
   
 ˖𝙢𝙮 𝙗𝙖𝙗𝙞𝙚𝙨 >-<
 <p align="center">
