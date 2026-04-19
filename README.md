@@ -3,6 +3,5 @@
   <img src="https://komarev.com/ghpvc/?username=elaushka&label=MEOW&color=ff69b4&style=for-the-badge" />
 </p>
 <p align="center">
-  <img src="![Uploading image.png…]()
-" width="300">
+  <img src="file:///C:/Users/noacc/Pictures/Screenshots/photo_2026-04-19_20-17-14.jpg" width="300">
 </p>
