@@ -4,5 +4,15 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.phototourl.com/free/2026-04-19-faf3bf48-a464-4363-aba3-59b752fd11ee.jpg" width="600">
+  <img 
+    src="https://cdn.phototourl.com/free/2026-04-19-faf3bf48-a464-4363-aba3-59b752fd11ee.jpg" 
+    style="width:500px; height:300px; object-fit:cover; border-radius:12px;"
+  >
+</p>
+
+<p align="center">
+  <img 
+    src="https://cdn.phototourl.com/free/2026-04-19-9cf144f4-a3a1-444d-aab2-a3b006e31920.png"
+    style="max-width:500px;"
+  >
 </p>
