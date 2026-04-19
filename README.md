@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <div style="width:500px; height:300px; overflow:hidden; margin:auto;">
+  <div style="width:400px; height:300px; overflow:hidden; margin:auto;">
     <img src="https://cdn.phototourl.com/free/2026-04-19-faf3bf48-a464-4363-aba3-59b752fd11ee.jpg"
          style="width:100%; height:100%; object-fit:cover; display:block;">
   </div>
