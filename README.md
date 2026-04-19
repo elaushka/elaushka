@@ -1,7 +1,6 @@
 <p align="center">
   ⊹ ࣪ ˖
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/elaushka&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=MEOW&edge_flat=false"/> 
-
+<img src="https://komarev.com/ghpvc/?username=elaushka&label=MEOW&color=000000&style=for-the-badge"/>
   
 ˖𝙢𝙮 𝙗𝙖𝙗𝙞𝙚𝙨 >-<
 <p align="center">
