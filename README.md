@@ -4,5 +4,5 @@
   
 ˖𝙢𝙮 𝙗𝙖𝙗𝙞𝙚𝙨 >-<
 <p align="center">
-  <img src="https://cdn.phototourl.com/free/2026-04-19-faf3bf48-a464-4363-aba3-59b752fd11ee.jpg" width="500">
+  <img src="https://cdn.phototourl.com/free/2026-05-02-8a1fad9d-9158-457c-851b-b66d6a337e49.png" width="500">
 </p>
